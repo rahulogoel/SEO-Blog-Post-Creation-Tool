@@ -50,6 +50,10 @@ This tool involves several steps:
     ```
 4. Copy the generated content and manually post it on Medium.
 
+## Results
+1) [Cut the Cord, Not the Quality: Experience True Freedom with Our Wireless Bluetooth Headphones!](https://medium.com/@onlytempacc0/cut-the-cord-not-the-quality-experience-true-freedom-with-our-wireless-bluetooth-headphones-19d411356318)
+2) [Unlock Your Potential with Today’s Smartphones](https://medium.com/@onlytempacc0/unlock-your-potential-with-todays-smartphones-db9a92a1498c)
+
 ## Challenges Faced
 - **Keyword research** was another challenge since Google Suggest's results can be limited and sometimes require manual intervention to gather a sufficient number of keywords.
 - The main challenge was the **Medium API restriction**, which prevented me from automating the blog posting process. As a result, I had to manually post the blog content.
